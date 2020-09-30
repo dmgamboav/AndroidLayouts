@@ -1,6 +1,6 @@
 package com.abc.layouts;
 
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompact.app.AppCompatActivity;
 import android.os.Bundle;
 
 public class ConstraintLayoutActivity extends AppCompatActivity {
